@@ -1,3 +1,0 @@
-H:/CSE/Learning Stage/C++ Programme/Learning C++ Programme/cmake-build-debug/CMakeFiles/Learning_C___Programme.dir
-H:/CSE/Learning Stage/C++ Programme/Learning C++ Programme/cmake-build-debug/CMakeFiles/edit_cache.dir
-H:/CSE/Learning Stage/C++ Programme/Learning C++ Programme/cmake-build-debug/CMakeFiles/rebuild_cache.dir
