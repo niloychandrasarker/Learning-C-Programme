@@ -1,5 +1,5 @@
 
-// sum 2 number 
+// Temparature conversion
 
 #include<iostream>
 using namespace std;
